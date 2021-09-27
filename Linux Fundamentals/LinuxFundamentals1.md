@@ -1,8 +1,10 @@
 # Linux Fundamentals 1
 
+![Capture](https://user-images.githubusercontent.com/51766689/134958150-272c7557-dad6-426c-84fa-6b2e1c6a84ab.PNG)
+
 ## Task 1 Introduction
 
-No Question Needed - Let's start!
+**No Question Needed - Let's start!**
 
 ## Task 2 A Bit of Background on Linux
 
