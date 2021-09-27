@@ -2,6 +2,8 @@
 
 ## Task 1 Introduction
 
+No Question Needed - Let's start!
+
 ## Task 2 A Bit of Background on Linux
 
 ## Task 3 Interacting With Your First Linux Machine (In-Browser)
