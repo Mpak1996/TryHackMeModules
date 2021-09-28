@@ -10,7 +10,7 @@
 
 * Research: What year was the first release of a Linux operating system?
 
-Answer: **1991**
+    Answer: **1991**
 
 ## Task 3 Interacting With Your First Linux Machine (In-Browser)
 
@@ -20,11 +20,11 @@ Answer: **1991**
 
 * If we wanted to output the text "TryHackMe", what would our command be?
 
-Answer: **echo TryHackMe**
+    Answer: **echo TryHackMe**
 
 * What is the username of who you're logged in as on your deployed Linux machine?
 
-Answer: **TryHackMe** (using **whoami** command)
+    Answer: **TryHackMe** (using **whoami** command)
 
 ## Task 5 Interacting With the Filesystem!
 
