@@ -8,7 +8,7 @@
 
 ## Task 2 A Bit of Background on Linux
 
-Research: What year was the first release of a Linux operating system?
+* Research: What year was the first release of a Linux operating system?
 
 Answer: **1991**
 
@@ -18,11 +18,11 @@ Answer: **1991**
 
 ## Task 4 Running Your First few Commands
 
-If we wanted to output the text "TryHackMe", what would our command be?
+* If we wanted to output the text "TryHackMe", what would our command be?
 
 Answer: **echo TryHackMe**
 
-What is the username of who you're logged in as on your deployed Linux machine?
+* What is the username of who you're logged in as on your deployed Linux machine?
 
 Answer: **TryHackMe** (using **whoami** command)
 
