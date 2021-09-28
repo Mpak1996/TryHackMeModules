@@ -8,9 +8,15 @@
 
 ## Task 2 A Bit of Background on Linux
 
-**I've deployed my first Linux machine!**
+
+Research: What year was the first release of a Linux operating system?
+
+Answer: **1991**
+
 
 ## Task 3 Interacting With Your First Linux Machine (In-Browser)
+
+**I've deployed my first Linux machine!**
 
 ## Task 4 Running Your First few Commands
 
