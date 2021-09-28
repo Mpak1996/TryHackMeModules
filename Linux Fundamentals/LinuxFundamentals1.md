@@ -28,6 +28,25 @@
 
 ## Task 5 Interacting With the Filesystem!
 
+![task5](https://user-images.githubusercontent.com/51766689/135131232-6f58065c-f8da-41a5-8ff4-9c571460d754.PNG)
+
+* On the Linux machine that you deploy, how many folders are there?
+
+    Answer: **4** (**ls**)
+
+* Which directory contains a file? 
+
+    Answer: **folder4** (**cd folder4**)
+
+* What is the contents of this file?
+
+    Answer: **Hello World** (**cat note.txt**)
+
+* Use the cd command to navigate to this file and find out the new current working directory. What is the path?
+
+    Answer: **/home/tryhackme/folder4** (**pwd**)
+
+
 ## Task 6 Searching for Files
 
 ## Task 7 An Introduction to Shell Operators
