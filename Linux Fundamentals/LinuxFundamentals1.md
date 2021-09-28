@@ -8,6 +8,8 @@
 
 ## Task 2 A Bit of Background on Linux
 
+**I've deployed my first Linux machine!**
+
 ## Task 3 Interacting With Your First Linux Machine (In-Browser)
 
 ## Task 4 Running Your First few Commands
