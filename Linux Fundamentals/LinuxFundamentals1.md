@@ -40,7 +40,9 @@
 
 * Which directory contains a file? 
 
-    Answer: **folder4** Using Command: **cd folder4**
+    Answer: **folder4** 
+    
+    Using Command: **cd folder4**
 
 * What is the contents of this file?
 
