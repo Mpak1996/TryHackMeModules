@@ -36,7 +36,7 @@
 
     Answer: **4** 
     
-    Using Command:**ls**
+    Using Command: **ls**
 
 * Which directory contains a file? 
 
@@ -54,7 +54,7 @@
 
     Answer: **/home/tryhackme/folder4**
     
-    Using Command:**pwd**
+    Using Command: **pwd**
 
 
 ## Task 6 Searching for Files
