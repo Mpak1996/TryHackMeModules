@@ -24,7 +24,7 @@
 
 * What is the username of who you're logged in as on your deployed Linux machine?
 
-    Answer: **TryHackMe** (using **whoami** command)
+    Answer: **TryHackMe** Using Command: **whoami** 
 
 ## Task 5 Interacting With the Filesystem!
 
@@ -32,19 +32,19 @@
 
 * On the Linux machine that you deploy, how many folders are there?
 
-    Answer: **4** (**ls**)
+    Answer: **4** Using Command:**ls**
 
 * Which directory contains a file? 
 
-    Answer: **folder4** (**cd folder4**)
+    Answer: **folder4** Using Command: **cd folder4**
 
 * What is the contents of this file?
 
-    Answer: **Hello World** (**cat note.txt**)
+    Answer: **Hello World** Using Command: **cat note.txt**
 
 * Use the cd command to navigate to this file and find out the new current working directory. What is the path?
 
-    Answer: **/home/tryhackme/folder4** (**pwd**)
+    Answer: **/home/tryhackme/folder4** Using Command:**pwd**
 
 
 ## Task 6 Searching for Files
@@ -55,7 +55,7 @@
 
 * Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag?
 
- Answer: **THM{ACCESS}** (**grep "THM" access.log**)
+ Answer: **THM{ACCESS}** Using Command: **grep "THM" access.log**
 
 ## Task 7 An Introduction to Shell Operators
 
