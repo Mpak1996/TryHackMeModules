@@ -88,4 +88,8 @@
 
 ## Task 8 Conclusions & Summaries
 
+**No Question Needed**
+
 ## Task 9 Linux Fundamentals Part 2
+
+**No Question Needed**
