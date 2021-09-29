@@ -49,6 +49,14 @@
 
 ## Task 6 Searching for Files
 
+![UsingFind](https://user-images.githubusercontent.com/51766689/135303938-55e90637-d420-438b-9cb8-49ede756e9fb.PNG)
+
+![UsingGrep](https://user-images.githubusercontent.com/51766689/135303934-c63ad10b-e942-478d-8b2e-77f9bab528e8.PNG)
+
+* Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag?
+
+ Answer: **THM{ACCESS}** (**grep "THM" access.log**)
+
 ## Task 7 An Introduction to Shell Operators
 
 ## Task 8 Conclusions & Summaries
