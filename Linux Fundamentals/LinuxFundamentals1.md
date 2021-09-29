@@ -71,6 +71,21 @@
 
 ## Task 7 An Introduction to Shell Operators
 
+![shellOperators](https://user-images.githubusercontent.com/51766689/135306941-db3dc381-0f09-4bd9-9ce5-e514be733fa1.PNG)
+
+* If we wanted to run a command in the background, what operator would we want to use? 
+
+  Answer: **&**
+
+* If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be?
+
+  Answer: **echo passwords > password123**
+
+* Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be
+
+  Answer: **echo passwords >> tryhackme**
+
+
 ## Task 8 Conclusions & Summaries
 
 ## Task 9 Linux Fundamentals Part 2
