@@ -4,27 +4,27 @@
 
 ## Task 1 Introduction
 
-**No Question Needed - Let's start!**
+   **No Question Needed - Let's start!**
 
 ## Task 2 Accessing Your Linux Machine Using SSH (Deploy)
 
 **No Question Needed - Let's start!**
 
-Hint: **ssh username@machineIP**
+   Hint: **ssh username@machineIP**
 
 ## Task 3 Introduction to Flags and Switches
 
 * Explore the manual page of the ls command
 
-**No Question Needed - Let's start!**
+    **No Question Needed - Let's start!**
 
 * What directional arrow key would we use to navigate down the manual page?
 
-  Answer: **down**
+    Answer: **down**
 
 * What flag would we use to display the output in a "human-readable" way?
 
- Answer: **-h**
+    Answer: **-h**
 
 
 ## Task 4 Filesystem Interaction Continued
