@@ -29,7 +29,25 @@
 
 ## Task 4 Filesystem Interaction Continued
 
+* How would you create the file named "newnote"?
 
+    Answer: **touch newnote**
+
+* On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory?
+
+    Answer: **ASCII text**
+
+    Command: **file uknown1**
+
+* How would we move the file "myfile" to the directory "myfolder" 
+
+    Answer: **mv myfile myfolder**
+
+* What are the contents of this file?
+
+    Answer: **THM{FILESYSTEM}**
+
+    Command: **cat myfile**
 
 ## Task 5 Permissions 101
 
