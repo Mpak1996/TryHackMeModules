@@ -53,8 +53,22 @@
 
 ## Task 5 Permissions 101
 
+ * On the deployable machine, who is the owner of "important"?
 
+    Answer: **user2**
 
+    Command: **ls -l**
+
+ * What would the command be to switch to the user "user2"?
+
+    Answer: **su user2**
+
+ * Output the contents of "important", what is the flag?
+
+    Answer: **THM{SU_USER2}**
+
+    Command: **cat important**
+ 
 ## Task 6 Common Directories
 
 
