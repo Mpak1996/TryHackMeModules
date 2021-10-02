@@ -71,10 +71,32 @@
  
 ## Task 6 Common Directories
 
+![etc](https://user-images.githubusercontent.com/51766689/135731937-e7a40ce6-1f40-4542-b6c9-b252e009a1f6.PNG)
+
+![var](https://user-images.githubusercontent.com/51766689/135731938-e324cea9-500d-4782-ab6b-8c384cb59808.PNG)
+
+![root](https://user-images.githubusercontent.com/51766689/135731939-a37fb230-01a6-46a4-b417-ec1c65860ee4.PNG)
+
+![tmp](https://user-images.githubusercontent.com/51766689/135731940-b3066067-f4c6-4a6a-b059-11cac4acfdf6.PNG)
+
+ * What is the directory path that would we expect logs to be stored in?
+
+    Answer: **/var/log**
+ 
+ * What root directory is similar to how RAM on a computer works?
+
+    Answer: **/tmp**
+
+ * Name the home directory of the root user 
+ 
+    Answer: **/root**
+
 
 
 ## Task 7 Conclusions and Summaries
 
-
+**No Question Needed - Let's start!**
 
 ## Task 8 Linux Fundamentals Part 3
+
+**No Question Needed - Let's start!**
