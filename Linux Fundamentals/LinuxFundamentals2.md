@@ -29,6 +29,8 @@
 
 ## Task 4 Filesystem Interaction Continued
 
+![FilesystemInteraction](https://user-images.githubusercontent.com/51766689/135731155-e542db22-238f-45c0-8f70-8c98cc97e67d.PNG)
+
 * How would you create the file named "newnote"?
 
     Answer: **touch newnote**
