@@ -35,6 +35,30 @@
 
 ## Task 5 Processes 101
 
+* If we were to launch a process where the previous ID was "300", what would the ID of this new process be?
+
+    Answer: **301**
+
+* If we wanted to cleanly kill a process, what signal would we send it?
+
+    Answer: **SIGTERM**
+
+* Locate the process that is running on the deployed instance (10.10.43.107). What flag is given?
+
+    Answer: **THM{PROCESSES}**
+
+* What command would we use to stop the service "myservice"?
+
+    Answer: **systemctl stop myservice**
+
+* What command would we use to start the same service on the boot-up of the system?
+
+    Answer: **systemctl enable myservice**
+
+* What command would we use to bring a previously backgrounded process back to the foreground?
+
+    Answer: **fg**
+
 ## Task 6 Maintaining Your System: Automatation
 
 ## Task 7 Maintaining Your System: Package Management
