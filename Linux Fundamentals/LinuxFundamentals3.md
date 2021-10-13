@@ -27,6 +27,12 @@
 
 ## Task 4 General/Useful Utilities
 
+* Download the file http://10.10.43.107:8000/.flag.txt onto the TryHackMe AttackBox. What are the contents?
+
+    Answer: **THM{WGET_WEBSERVER}**
+
+    Command: **python3 -m http.server** -> **wget http://10.10.43.107:8000/.flag.txt** -> **ls -a** -> **cat .flag.txt**
+
 ## Task 5 Processes 101
 
 ## Task 6 Maintaining Your System: Automatation
