@@ -61,6 +61,16 @@
 
 ## Task 6 Maintaining Your System: Automatation
 
+* Ensure you are connected to the deployed instance and look at the running crontabs.
+
+    Command: **crontab -e**
+
+* When will the crontab on the deployed instance (10.10.5.251) run?
+
+    Answer: **@reboot**
+
+    Command: **crontab -e**
+
 ## Task 7 Maintaining Your System: Package Management
 
 ## Task 8 Maintaining Your System: Logs
