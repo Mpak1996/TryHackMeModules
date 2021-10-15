@@ -73,7 +73,23 @@
 
 ## Task 7 Maintaining Your System: Package Management
 
+   **Not question needed**
+
 ## Task 8 Maintaining Your System: Logs
 
+* What is the IP address of the user who visited the site?
+
+    Answer: **10.9.232.111**
+
+    Command: **cd /var/log** -> **cd apache2** -> **nano access.log.1**
+
+* What file did they access?
+
+    Answer: **catsanddogs.jpg**
+
+    Command: **cd /var/log** -> **cd apache2** -> **nano access.log.1**
+
 ## Task 9 Conclusions and Summaries
+
+   **Not question needed**
 
