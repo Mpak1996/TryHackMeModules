@@ -12,3 +12,6 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
     * Linux Fundametals 1
     * Linux Fundametals 2
     * Linux Fundametals 3
+  
+* How the Web works
+    * DNS in Detail
