@@ -1,6 +1,6 @@
-# DNS in Detail
+# HTTP in Detail
 
-![DNS](https://user-images.githubusercontent.com/51766689/137633054-fb774bf3-541e-4411-a6e7-952c4ade5b42.PNG)
+![HTTPinDetail](https://user-images.githubusercontent.com/51766689/137770062-4cd26f66-3cf8-4edd-932a-76624d57c9b4.PNG)
 
 ## Task 1 What is HTTP(S)?
 
