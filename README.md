@@ -15,3 +15,5 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
   
 * How the Web works
     * DNS in Detail
+    * HTTP in Detail
+    * How Websites work
