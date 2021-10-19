@@ -6,7 +6,9 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
 
 
 
-## Modules
+## Modules and Paths
+
+### Pre-Security Path:
 
 * Linux Fundamentals
     * Linux Fundametals 1
