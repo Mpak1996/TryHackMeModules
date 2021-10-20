@@ -18,3 +18,8 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
 * How the Web works
     * DNS in Detail
     * HTTP in Detail
+
+* Windows Fundamentals
+    * Windows Fundametals 1
+    * Windows Fundametals 2
+    * Windows Fundametals 3
