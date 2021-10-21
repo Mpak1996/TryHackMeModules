@@ -23,3 +23,16 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
     * Windows Fundametals 1
     * Windows Fundametals 2
     * Windows Fundametals 3
+
+### Complete Beginner Path:
+
+* Linux Fundamentals
+    * Linux Fundametals 1
+    * Linux Fundametals 2
+    * Linux Fundametals 3
+
+* Network Exploitation Basics
+    * Introductory Networking
+
+* Web Hacking Fundamentals
+    * How Websites Work
