@@ -1,16 +1,28 @@
-# Windows Fundamentals 1
+# Widnows Fundamentals 2
 
 ![WindowsFundamentals](https://user-images.githubusercontent.com/51766689/138319516-65a7bc95-b77e-4838-a326-d3d119044559.PNG)
 
-## Task 1 Introduction to Windows
+## Task 1 Introduction
 
-**No Question Needed - Let's start!**
+**No Answer Needed - Let's start!**
 
-## Task 2 Windows Editions
+## Task 2 System Configuration
 
-* What encryption can you enable on Pro that you can't enable in Home?
+* What is the name of the service that lists Systems Internals as the manufacturer?
 
-    Answer: **BitLocker**
+    Answer: **PsShutdown**
+
+* Whom is the Windows license registered to?
+
+    Answer: **Windows User**
+
+* What is the command for Windows Troubleshooting?
+
+    Answer: **C:\Windows\System32\control.exe /name Microsoft.Troubleshooting**
+
+* What command will open the Control Panel? (The answer is  the name of .exe, not the full path)
+
+    Answer: **control.exe**
 
 ## Task 3 The Desktop (GUI)
 
