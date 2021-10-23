@@ -81,7 +81,7 @@
 
     Answer: **regedt32.exe**
 
-## Task 10 Conclusion
+## Task 9 Conclusion
 
    **No answer needed**
 
