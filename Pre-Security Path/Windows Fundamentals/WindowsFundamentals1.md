@@ -33,3 +33,50 @@
 
 
     Answer: **New Technology File System**
+
+## Task 5 The Windows\System32 Folders
+
+* What is the system variable for the Windows folder?
+
+    Answer: **%windir%**
+
+## Task 6 User Accounts, Profiles, and Permissions
+
+* What is the name of the other user account?
+
+    Answer: **tryhackmebilly**
+
+* What groups is this user a member of?
+
+    Answer: **Remote Desktop Users,Users**
+
+* What built-in account is for guest access to the computer?
+
+    Answer: **Guest**
+
+* What is the account status?
+
+    Answer: **Account is disabled**
+
+## Task 7 User Account Control
+
+* What does UAC mean?
+
+    Answer: **User Account Control**
+
+## Task 8 Settings and the Control Panel
+
+* In the Control Panel, change the view to Small icons. What is the last setting in the Control Panel view?
+
+    Answer: **Windows Defender Firewall**
+
+## Task 9 Task Manager
+
+* What is the keyboard shortcut to open Task Manager?
+
+    Answer: **Ctrl+Shift+Esc**
+
+## Task 10 Conclusion
+
+   **No answer needed**
+
