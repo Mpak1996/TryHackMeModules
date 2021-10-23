@@ -24,69 +24,62 @@
 
     Answer: **control.exe**
 
-## Task 3 The Desktop (GUI)
+## Task 3 Change UAC Settings
 
-* Which selection will hide/disable the Search box?
+* What is the command to open User Account Control Settings? (The answer is the name of the .exe file, not the full path)
 
-    Answer: **Hidden**
-
-* Which selection will hide/disable the Task View button?
-
-    Answer: **Show Task View button**
-
-* Besides Clock, Volume, and Network, what other icon is visible in the Notification Area?
-
-    Answer: **Action Center**
+    Answer: **UserAccountControlSettings.exe**
 
 
-## Task 4 The File System
+## Task 4 Computer Management
 
-* What is the meaning of NTFS?
+* What is the command to open Computer Management? (The answer is the name of the .msc file, not the full path)
 
+    Answer: **compmgmt.msc**
 
-    Answer: **New Technology File System**
+* At what time every day is the GoogleUpdateTaskMachineUA task configured to run?
 
-## Task 5 The Windows\System32 Folders
+    Answer: **6:15 AM**
 
-* What is the system variable for the Windows folder?
+* What is the name of the hidden share?
 
-    Answer: **%windir%**
+    Answer: **sh4r3dF0Ld3r**
 
-## Task 6 User Accounts, Profiles, and Permissions
+## Task 5 System Information
 
-* What is the name of the other user account?
+* What is the command to open System Information? (The answer is the name of the .exe file, not the full path)
 
-    Answer: **tryhackmebilly**
+    Answer: **msinfo32.exe**
 
-* What groups is this user a member of?
+* What is listed under System Name?
 
-    Answer: **Remote Desktop Users,Users**
+    Answer: **THM-WINFUN2**
 
-* What built-in account is for guest access to the computer?
+* Under Environment Variables, what is the value for ComSpec?
 
-    Answer: **Guest**
+    Answer: **%SystemRoot%\system32\cmd.exe**
 
-* What is the account status?
+## Task 6 Resource Monitor
 
-    Answer: **Account is disabled**
+* What is the command to open Resource Monitor? (The answer is the name of the .exe file, not the full path)
 
-## Task 7 User Account Control
+    Answer: **resmon.exe**
 
-* What does UAC mean?
+## Task 7 Command Prompt
 
-    Answer: **User Account Control**
+* In System Configuration, what is the full command for Internet Protocol Configuration?
 
-## Task 8 Settings and the Control Panel
+    Answer: **C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe**
 
-* In the Control Panel, change the view to Small icons. What is the last setting in the Control Panel view?
+* For the ipconfig command, how do you show detailed information?
 
-    Answer: **Windows Defender Firewall**
+    Answer: **ipconfig /all**
 
-## Task 9 Task Manager
+## Task 8 Registry Editor
 
-* What is the keyboard shortcut to open Task Manager?
+* What is the command to open the Registry Editor? (The answer is the name of  the .exe file, not the full path)
 
-    Answer: **Ctrl+Shift+Esc**
+    Answer: **regedt32.exe**
 
 ## Task 10 Conclusion
 
