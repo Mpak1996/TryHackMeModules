@@ -44,3 +44,8 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
 
 * Web Hacking Fundamentals
     * How Websites Work
+
+
+### Introduction to PenTesting Module
+    * PenTesting Fundamentals
+    * Principles of Security
