@@ -51,5 +51,5 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
 
 
 ### Introduction to PenTesting Module
-    * PenTesting Fundamentals
-    * Principles of Security
+* PenTesting Fundamentals
+* Principles of Security
