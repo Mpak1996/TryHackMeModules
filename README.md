@@ -9,8 +9,8 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
 ## Modules and Paths
 
 ### Advent of Cyber 3 (2021) - Christmas Edition
-    * Day 1 Web Exploitation
-    * Day 2 Web Exploitation
+* Day 1 Web Exploitation
+* Day 2 Web Exploitation
 
 ### Pre-Security Path:
 
