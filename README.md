@@ -13,6 +13,7 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
 * Day 2 - Elf HR Problems (Web Exploitation)
 * Day 3 - Christmas Blackout (Web Exploitation with Dirbuster)
 * Day 4 - Santa's Running Behind (Web Exploitation with Burp Suite)
+Day 5 -  Pesky Elf Forum (Web Exploitation with XSS)
 
 ### Pre-Security Path:
 
