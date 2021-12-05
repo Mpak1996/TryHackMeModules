@@ -11,6 +11,8 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
 ### Advent of Cyber 3 (2021) - Christmas Edition
 * Day 1 - Save the Gitfs (Web Exploitation)
 * Day 2 - Elf HR Problems (Web Exploitation)
+* Day 3 - Christmas Blackout
+* Day 4 - Santa's Running Behind
 
 ### Pre-Security Path:
 
