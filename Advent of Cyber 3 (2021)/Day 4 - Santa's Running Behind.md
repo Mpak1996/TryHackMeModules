@@ -6,7 +6,7 @@
 
 * What is the name of the new cookie that was created for your account?
 
-    Answer: **user-auth**
+    Answer: **user-auth!**
 
 * What encoding type was used for the cookie value?
 
