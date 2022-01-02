@@ -26,11 +26,13 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
     * Intro to LAN
     * OSI Model
     * Packets & Frames
+    * Extending your Network
 
 * How the Web works
     * DNS in Detail
     * HTTP in Detail
     * How Websites work
+    * Putting It All Together
 
 * Linux Fundamentals
     * Linux Fundametals 1
