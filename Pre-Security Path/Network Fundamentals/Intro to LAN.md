@@ -56,7 +56,7 @@
 
 ## Task 3 The ARP ProtocolS
 
-* What does ARP stand for?S
+* What does ARP stand for?
 
     Answer: **Address Resolution Protocol**
 
