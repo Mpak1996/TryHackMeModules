@@ -125,7 +125,7 @@
     Answer: **Network Interface Card**
 
     
-## Task 8 Layer 2-Physiacal
+## Task 8 Layer 1-Physical
 
 * What is the name of this Layer?
 
