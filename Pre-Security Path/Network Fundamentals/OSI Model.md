@@ -52,6 +52,37 @@
 
     Answer: **packets**
 
-## Continue Your Learning: Intro to LAN
+## Task 5 Layer 4-Transport
 
-**No answer needed**
+* What is the name of this Layer?
+
+    Answer: **Transport**
+
+* What does TCP stand for?
+
+    Answer: **Transmission Control Protocol**
+
+* What does UDP stand for?
+
+    Answer: **User Datagram Protocol**
+
+* What protocol guarantees the accuracy of data?
+
+    Answer: **TCP**
+
+* What protocol doesn't care if data is received or not by the other device?
+
+    Answer: **UDP**
+
+* What protocol would an application such as an email client use?
+
+    Answer: **TCP**
+
+* What protocol would an application that downloads files use?
+
+    Answer: **TCP**
+
+* What protocol would an application that streams video use?
+
+    Answer: **UDP**
+    
