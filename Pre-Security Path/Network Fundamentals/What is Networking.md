@@ -42,7 +42,7 @@
 
     Answer: **ICMP**
 
-* What is the syntax to ping 10.10.10.10??
+* What is the syntax to ping 10.10.10.10?
 
     Answer: **ping 10.10.10.10**
 
