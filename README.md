@@ -24,6 +24,7 @@ Let's discover TryHackMe's Rooms and Modules for Cybersecurity - Ethical Hacking
 * Network Fundamentals
     * What is Networking?
     * Intro to LAN
+    * OSI Model
 
 * How the Web works
     * DNS in Detail
